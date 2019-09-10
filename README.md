@@ -1,7 +1,7 @@
 # DowCemadenPy
 Script para download dos dados de radar disponibilizados no site do Cemaden.
 
-Example:
+# Example:
 
 Na pasta onde localiza-se o script em python digite:
 
