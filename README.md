@@ -5,10 +5,11 @@ Script para download dos dados de radar disponibilizados no site do Cemaden.
 
 Na pasta onde localiza-se o script em python digite:
 
+``` python
 ipython baixa_cemaden_v01.py maceio 400km /home/lucas/maceio/
 
-	[1]		[2]	[3]	[4]		[5]
-
+[1]		[2]	[3]	[4]		[5]
+```
 [1] ipython;
 
 [2] Nome do script;
